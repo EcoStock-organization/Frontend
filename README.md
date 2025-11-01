@@ -17,8 +17,8 @@ Este repositório contém o código-fonte da interface de usuário (Frontend) pa
 
 Este projeto é dividido em múltiplos repositórios. Acesse os outros componentes através dos links abaixo:
 
--   **[⚙️ Backend (API)](https://github.com/TPPE-Estoque/Backend)**
 -   **[📄 Documentação](https://github.com/TPPE-Estoque/Doc)**
+-   **[⚙️ Backend](https://github.com/TPPE-Estoque/Backend)**
 
 ## 🚀 Como Rodar o Projeto
 
