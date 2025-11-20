@@ -18,7 +18,7 @@ Este repositório contém o código-fonte da interface de usuário (Frontend) pa
 Este projeto é dividido em múltiplos repositórios. Acesse os outros componentes através dos links abaixo:
 
 -   **[📄 Documentação](https://github.com/EcoStock-organization/ecostock-docs)**
--   **[⚙️ Backend](https://github.com/EcoStock-organization/Backend)**
+-   **[⚙️ Backend](https://github.com/EcoStock-organization/ecostock-backend)**
 -   **[🔑 Serviço de Autenticação](https://github.com/EcoStock-organization/Auth)**
 
 ## 🚀 Como Rodar o Projeto
