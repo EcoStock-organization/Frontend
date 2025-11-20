@@ -34,7 +34,7 @@ Siga os passos abaixo para executar o ambiente de desenvolvimento localmente.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/EcoStock-organization/Frontend.git
+    git clone https://github.com/EcoStock-organization/ecostock-frontend.git
     ```
 
 2.  **Acesse a pasta do projeto:**
